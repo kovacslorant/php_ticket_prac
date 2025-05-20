@@ -22,7 +22,7 @@ class Router
             }
     
         } else {
-            echo "Kontroller nem található: $ControllerName";
+            echo "Kontroller nem található: $controllerName";
         }
     }
 

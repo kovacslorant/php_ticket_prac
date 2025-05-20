@@ -1,5 +1,5 @@
 <?php
-require_once '../app/core/controller.php';
+require_once '../app/core/Controller.php';
 
 class TicketController extends Controller
 {
