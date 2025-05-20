@@ -1,0 +1,15 @@
+{
+    "name": "smith/php_ticket_prac",
+    "autoload": {
+        "psr-4": {
+            "Smith\\PhpTicketPrac\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kovacs Lorant",
+            "email": "kovacslorant03@gmail.com"
+        }
+    ],
+    "require": {}
+}
